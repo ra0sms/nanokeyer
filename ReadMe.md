@@ -2,7 +2,7 @@
 
 More information on nanokeyer web-site
 
-https://ra0sms.com/swr_power_meter/
+https://nanokeyer.wordpress.com/
 
 This is clone of nanokeyer based on Arduino Nano board. It has full-compatibility with Winkeyer protocol.
 
