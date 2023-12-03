@@ -6,7 +6,7 @@ https://ra0sms.com/swr_power_meter/
 
 This is clone of nanokeyer based on Arduino Nano board. It has full-compatibility with Winkeyer protocol.
 
-![](nanokeyer.jpg)
+![](DipTrace/nanokeyer.jpg)
 
 DipTrace folder has gerber files for PCB.
 
