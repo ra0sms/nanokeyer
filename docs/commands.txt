@@ -1,0 +1,33 @@
+A  Switch to Iambic A mode
+B  Switch to Iambic B mode
+C  Switch to Single Paddle Mode
+D  Switch to Ultimatic mode (if OPTION_NO_ULTIMATIC not set)
+E  Announce speed
+F  Adjust sidetone frequency
+G  Switch to bug mode
+H  Set weighting and dah to dit ratio to defaults
+I  TX enable / disable
+J  Dah to dit ratio adjust
+K  Toggle Dit and Dah Buffers on and off (Ultimatic Mode) (if OPTION_NO_ULTIMATIC is not set)
+L  Adjust weighting
+M  Change command mode speed
+N  Toggle paddle reverse
+O  Toggle sidetone on / off
+P#(#) Program a memory
+Q  Adjust keying compensation (left paddle = increase, right paddle = decrease)
+R####  Set serial number to ####
+S  Alphabet code practice (FEATURE_ALPHABET_SEND_PRACTICE)
+T  Tune mode
+U  Receive / Send Echo Practice
+V  Toggle potentiometer active / inactive
+W  Change speed
+X  Exit command mode (you can also press the command button (button0) to exit)
+Y#### Change memory repeat delay to #### mS
+Z  Autospace On/Off
+#  Play a memory without transmitting
+=  Enable / disable PTT Line (-...-)
+?  Status
+     1. Speed in WPM
+     2. Keyer Mode (A = Iambic A, B = Iambic B, G = Bug, S = Single Paddle, U = Ultimatic)
+     3. Weighting
+     4. Dah to Dit Ratio
